@@ -1,0 +1,52 @@
+dog
+person
+cat
+tv
+car
+meatballs
+marinara sauce
+tomato soup
+chicken noodle soup
+french onion soup
+chicken breast
+ribs
+pulled pork
+hamburger
+cavity
+RAD 238 Z
+RAE 476 L
+RAD 751 B
+RAF 767 L
+RAC 748 X
+RAE 026 A
+GR 952 D
+RAF 563 S
+RAG 190 D
+RAD 820 U
+RAG 574 F
+RAF 140 C
+RAD 685 G
+RAE 885 W
+RAA 427 Z
+RAE 888 P
+RAC 902 M
+RAA
+RAE 457 Q
+GR
+RAF 337 X
+RAF 797 U
+RAE 388 U
+RAD 994 H
+RAG 258 D
+RAG 911 B
+RAG 120 C
+RAG 119 H
+RAE 734 W
+RAE 325 K
+RAE 474 L
+RAF 509 Q
+RAE 434 L
+RAE 300 H
+RAC 868 Z
+RAF 626 B
+RAH 972 U
